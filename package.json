@@ -1,0 +1,8 @@
+{
+  "name": "out-of-office-reply-20261124",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.ts",
+  "license": "MIT",
+  "description": "A one-line AI out-of-office auto-reply for the make.fun bounty 'The Funniest AI Out-of-Office Reply'."
+}
